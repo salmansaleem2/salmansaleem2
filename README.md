@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Raja Muhammad Ehsan</h1>
+<h1 align="center">Hi 👋, I'm Salman Saleem</h1>
 <h3 align="center">A passionate Full stack developer and love to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmansaleem2&label=Profile%20views&color=0e75b6&style=flat" alt="salmansaleem2" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmansaleem2" alt="salmansaleem2" /></a> </p>
 
-- 🌱 I’m currently learning **Nest Js**
+- 🌱 Exploring **web3** nowadays!
 
 - 💬 Ask me about **JavaScript, ReactJs, NodeJs, Next Js, Typescript, Express Js, Nest Js**
 
-- 📫 How to reach me **rajaehsan056@gmail.com**
+- 📫 How to reach me **salmansaleem8523@gmail.com**
 
 <hr />
 
